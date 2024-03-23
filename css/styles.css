@@ -10917,3 +10917,13 @@ footer.footer {
   padding-top: 4rem;
   padding-bottom: 4rem;
 }
+
+.copyleft {
+  display:inline-block;
+  transform: rotate(180deg);
+}
+
+#none a:link {text-decoration:none;color:black;}
+#none a:visited {text-decoration:none;color:black;}
+#none a:hover {text-decoration:none;color:black;}
+#none a:active {text-decoration:none;color:black;}
